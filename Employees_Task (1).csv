@@ -1,0 +1,206 @@
+Employee ID,Hire Date,Country,City,Department,Job Title,First Name,Last Name,Email,Phone Number,Gender,Years of Experience,Salary,Bonus,Remote
+1.0,7/14/2016,Egypt,giza,Operations,Operations Coordinator,yara,gaber,yara.gaber@company.com,Mobile: 140260662,Female,3.0,1150.0,,True
+2.0,9/4/2017,Kuwait,kuwait city,Operations,Operations Coordinator,tarek,othman,TAREK.OTHMAN@COMPANY.COM,Mobile: 550047120,Male,12.0,1510.0,146.17,False
+3.0,11/18/2022,United Arab Emirates,dubai,Operations,Operations Coordinator,adel,ramzy,ADEL.RAMZY@COMPANY.COM,Mobile: 321146487,Male,3.0,1170.0,,False
+4.0,2/4/2024,Saudi Arabia,riyadh,Sales,Sales Representative,rania,zaki,rania.zaki@company.com,Mobile: 409170818,Female,2.0,1010.0,136.37,False
+5.0,5/16/2016,Qatar,doha,Operations,Operations Coordinator,hana,mahmoud,hana.mahmoud@company.com,Mobile: 173833652,Female,10.0,1500.0,134.4,False
+6.0,8/2/2016,Saudi Arabia,jeddah,Customer Support,Support Team Lead,mariam,othman,mariam.othman@company.com,Mobile: 755969870,Female,12.0,2480.0,354.34,True
+7.0,6/22/2021,Jordan,amman,IT,Senior Software Engineer,hana,nasser,hana.nasser@company.com,Mobile: 398952339,Female,12.0,3430.0,440.12,False
+8.0,10/19/2020,Egypt,cairo,Operations,Operations Coordinator,khaled,fathy,KHALED.FATHY@COMPANY.COM,Mobile: 674012672,Male,15.0,1750.0,111.71,True
+9.0,3/4/2022,United Arab Emirates,,Customer Support,Support Team Lead,yousef,othman,YOUSEF.OTHMAN@COMPANY.COM,Mobile: 324157762,Male,12.0,2300.0,179.52,True
+10.0,6/16/2024,Egypt,cairo,HR,Recruiter,hazem,hassan,HAZEM.HASSAN@COMPANY.COM,Mobile: 473006684,Male,2.0,1010.0,48.3,True
+11.0,4/17/2015,Egypt,alexandria,HR,HR Specialist,salma,nasser,salma.nasser@company.com,Mobile: 654409968,Female,3.0,1180.0,103.17,True
+12.0,11/8/2020,Qatar,doha,Customer Support,Support Team Lead,mona,kamal,mona.kamal@company.com,Mobile: 639766818,Female,11.0,2410.0,136.73,False
+13.0,5/7/2022,Saudi Arabia,riyadh,Operations,Operations Coordinator,tarek,gaber,TAREK.GABER@COMPANY.COM,Mobile: 400023374,Male,15.0,1600.0,,False
+14.0,11/12/2022,Saudi Arabia,riyadh,Sales,Sales Representative,rania,hassan,rania.hassan@company.com,Mobile: 102049037,Female,15.0,1450.0,152.09,False
+15.0,3/5/2017,United Arab Emirates,dubai,Sales,Senior Sales Executive,lina,nasser,lina.nasser@company.com,Mobile: 191181347,Female,2.0,1760.0,136.4,True
+16.0,9/24/2016,United Arab Emirates,dubai,Finance,Finance Manager,adel,ramzy,ADEL.RAMZY@COMPANY.COM,Mobile: 879933911,Male,4.0,3180.0,,False
+17.0,8/22/2020,Qatar,doha,Sales,Senior Sales Executive,ahmed,zaki,ahmed.zaki@company.com,Mobile: 165395729,Male,7.0,2150.0,204.94,False
+18.0,10/24/2022,Egypt,cairo,Marketing,Content Creator,hazem,said,HAZEM.SAID@COMPANY.COM,Mobile: 251997788,Male,14.0,1630.0,200.69,True
+19.0,8/11/2016,Saudi Arabia,riyadh,IT,Senior Software Engineer,mona,adly,mona.adly@company.com,Mobile: 129920624,Female,8.0,2820.0,,False
+20.0,8/5/2018,Qatar,doha,Marketing,Marketing Manager,salma,adly,SALMA.ADLY@COMPANY.COM,Mobile: 700773368,Female,7.0,3270.0,467.81,False
+21.0,3/9/2020,Saudi Arabia,jeddah,Sales,Sales Manager,hassan,hassan,hassan.hassan@company.com,Mobile: 808945035,Male,3.0,3190.0,,False
+22.0,2/24/2020,Saudi Arabia,riyadh,Sales,Sales Manager,hassan,nasser,hassan.nasser@company.com,Mobile: 482912221,Male,5.0,3390.0,265.97,True
+23.0,5/2/2019,Saudi Arabia,jeddah,Marketing,Content Creator,hassan,farouk,hassan.farouk@company.com,Mobile: 190260096,Male,2.0,990.0,56.85,False
+24.0,7/3/2017,Qatar,doha,Sales,,dina,gaber,DINA.GABER@COMPANY.COM,Mobile: 838955107,Female,15.0,4220.0,,True
+25.0,3/2/2024,Egypt,giza,Customer Support,Support Agent,mona,ramzy,mona.ramzy@company.com,Mobile: 387612212,Female,8.0,1160.0,82.01,False
+26.0,1/9/2020,Saudi Arabia,jeddah,Sales,,mostafa,mahmoud,mostafa.mahmoud@company.com,Mobile: 390471177,Male,9.0,1390.0,116.04,True
+27.0,4/11/2018,Egypt,giza,Sales,Senior Sales Executive,hazem,nasser,hazem.nasser@company.com,Mobile: 430479528,Male,13.0,2500.0,341.62,True
+28.0,9/22/2021,Egypt,cairo,IT,Senior Software Engineer,hassan,farouk,HASSAN.FAROUK@COMPANY.COM,Mobile: 814282776,Male,2.0,2410.0,196.87,False
+29.0,5/7/2015,Jordan,amman,Sales,,yousef,said,yousef.said@company.com,Mobile: 362472429,Male,0.0,1600.0,234.74,True
+30.0,5/10/2015,Saudi Arabia,riyadh,Operations,Operations Coordinator,dina,adly,dina.adly@company.com,Mobile: 523031348,Female,0.0,1000.0,47.26,False
+31.0,11/14/2023,Jordan,amman,Customer Support,Support Team Lead,adel,gaber,adel.gaber@company.com,Mobile: 867737212,Male,4.0,1820.0,86.21,False
+32.0,1/21/2023,Egypt,giza,Operations,Operations Coordinator,adel,kamal,adel.kamal@company.com,Mobile: 584672221,Male,0.0,1000.0,145.14,True
+33.0,5/8/2016,Qatar,doha,Customer Support,Support Agent,sara,nasser,sara.nasser@company.com,Mobile: 370790737,Female,2.0,880.0,,False
+34.0,10/19/2019,Saudi Arabia,jeddah,IT,Data Analyst,salma,gaber,SALMA.GABER@COMPANY.COM,Mobile: 372666299,Female,1.0,1380.0,54.23,True
+35.0,2/16/2019,Qatar,doha,Finance,Accountant,tarek,othman,tarek.othman@company.com,Mobile: 313943091,Male,9.0,1580.0,69.87,True
+36.0,5/4/2023,Egypt,giza,Sales,Sales Representative,dina,gaber,DINA.GABER@COMPANY.COM,Mobile: 980701311,Female,2.0,990.0,142.89,False
+37.0,1/11/2020,Jordan,amman,Sales,Sales Representative,hana,mahmoud,hana.mahmoud@company.com,Mobile: 229825425,Female,14.0,1520.0,121.51,False
+38.0,1/9/2019,United Arab Emirates,dubai,HR,HR Manager,ahmed,kamal,ahmed.kamal@company.com,Mobile: 559618139,Male,2.0,2690.0,270.89,True
+39.0,9/18/2021,United Arab Emirates,dubai,Finance,Finance Manager,tarek,zaki,TAREK.ZAKI@COMPANY.COM,Mobile: 917821224,Male,6.0,3430.0,278.96,True
+40.0,5/9/2019,Saudi Arabia,jeddah,Customer Support,Support Agent,salma,ramzy,salma.ramzy@company.com,Mobile: 469005177,Female,15.0,1160.0,52.52,False
+41.0,9/8/2022,United Arab Emirates,abu dhabi,Marketing,Content Creator,mostafa,nasser,MOSTAFA.NASSER@COMPANY.COM,Mobile: 971692124,Male,3.0,1040.0,,False
+42.0,4/1/2024,Egypt,giza,Sales,Sales Representative,yara,adly,YARA.ADLY@COMPANY.COM,Mobile: 377409322,Female,5.0,1150.0,,False
+43.0,2/9/2018,Jordan,amman,HR,HR Specialist,hassan,zaki,hassan.zaki@company.com,Mobile: 948590932,Male,8.0,1450.0,163.0,False
+44.0,8/15/2023,United Arab Emirates,abu dhabi,Sales,Sales Representative,dina,mahmoud,dina.mahmoud@company.com,Mobile: 986469662,Female,15.0,1700.0,65.92,True
+45.0,9/21/2019,Egypt,cairo,Marketing,Marketing Specialist,yousef,hassan,YOUSEF.HASSAN@COMPANY.COM,Mobile: 237403356,Male,4.0,1310.0,140.77,False
+46.0,6/21/2019,Saudi Arabia,jeddah,Sales,Senior Sales Executive,nour,ramzy,nour.ramzy@company.com,Mobile: 594662796,Female,7.0,2150.0,,False
+47.0,6/8/2021,Egypt,cairo,Operations,Operations Manager,ahmed,gaber,AHMED.GABER@COMPANY.COM,Mobile: 344641885,Male,0.0,2600.0,279.92,False
+48.0,4/9/2022,Qatar,doha,IT,IT Manager,hana,fathy,hana.fathy@company.com,Mobile: 347829072,Female,2.0,3700.0,249.4,False
+49.0,10/5/2015,United Arab Emirates,abu dhabi,Sales,Senior Sales Executive,mariam,said,mariam.said@company.com,Mobile: 328652335,Female,1.0,1680.0,,False
+50.0,6/11/2021,Egypt,alexandria,IT,Software Engineer,rania,kamal,rania.kamal@company.com,Mobile: 434821846,Female,10.0,1850.0,172.01,False
+51.0,4/12/2022,United Arab Emirates,abu dhabi,IT,Senior Software Engineer,karim,gaber,KARIM.GABER@COMPANY.COM,Mobile: 857263389,Male,11.0,3450.0,436.33,False
+52.0,10/11/2016,United Arab Emirates,abu dhabi,Finance,Financial Analyst,sara,othman,SARA.OTHMAN@COMPANY.COM,Mobile: 309316788,Female,1.0,1360.0,171.9,True
+53.0,4/4/2015,Saudi Arabia,jeddah,Operations,Operations Manager,mostafa,kamal,mostafa.kamal@company.com,Mobile: 170149810,Male,9.0,3280.0,459.12,False
+54.0,10/8/2017,Egypt,alexandria,Customer Support,Support Team Lead,dina,gaber,dina.gaber@company.com,Mobile: 929797754,Female,15.0,2230.0,264.52,True
+55.0,7/4/2017,Saudi Arabia,riyadh,Finance,Financial Analyst,hazem,fathy,hazem.fathy@company.com,Mobile: 449780371,Male,13.0,1880.0,,False
+56.0,5/10/2016,Egypt,alexandria,Operations,Operations Manager,hassan,nasser,HASSAN.NASSER@COMPANY.COM,Mobile: 678279326,Male,7.0,3180.0,435.51,True
+57.0,4/17/2019,Saudi Arabia,riyadh,Sales,Sales Representative,lina,nasser,LINA.NASSER@COMPANY.COM,Mobile: 525276493,Female,7.0,1210.0,120.27,False
+58.0,4/20/2015,Saudi Arabia,riyadh,IT,Data Analyst,sara,hassan,SARA.HASSAN@COMPANY.COM,Mobile: 228007885,Female,14.0,2410.0,,False
+59.0,3/2/2020,Saudi Arabia,jeddah,Finance,Finance Manager,nour,said,NOUR.SAID@COMPANY.COM,Mobile: 495897797,Female,0.0,2800.0,292.3,True
+60.0,8/3/2023,United Arab Emirates,dubai,Finance,Finance Manager,ahmed,farouk,AHMED.FAROUK@COMPANY.COM,Mobile: 632173540,Male,5.0,3290.0,,False
+61.0,6/14/2024,United Arab Emirates,abu dhabi,Operations,Operations Coordinator,hazem,hassan,hazem.hassan@company.com,Mobile: 435396017,Male,8.0,1410.0,94.35,False
+62.0,10/12/2021,Saudi Arabia,,Operations,Operations Manager,lina,gaber,LINA.GABER@COMPANY.COM,Mobile: 197160770,Female,0.0,2600.0,,False
+63.0,8/25/2021,United Arab Emirates,dubai,Marketing,Content Creator,hassan,hassan,hassan.hassan@company.com,Mobile: 216815428,Male,5.0,1120.0,103.64,False
+64.0,10/13/2018,Kuwait,kuwait city,HR,HR Specialist,ahmed,nasser,ahmed.nasser@company.com,Mobile: 787543116,Male,12.0,1520.0,171.13,False
+65.0,11/2/2023,United Arab Emirates,abu dhabi,Marketing,Marketing Specialist,ahmed,gaber,ahmed.gaber@company.com,Mobile: 144129745,Male,11.0,1650.0,193.03,False
+66.0,1/1/2017,United Arab Emirates,abu dhabi,Customer Support,Support Team Lead,nour,othman,nour.othman@company.com,Mobile: 570677517,Female,9.0,2180.0,237.75,False
+67.0,1/21/2015,Egypt,giza,Finance,Financial Analyst,yara,nasser,yara.nasser@company.com,Mobile: 805551219,Female,4.0,1530.0,193.2,True
+68.0,8/10/2017,Egypt,alexandria,Finance,Finance Manager,ahmed,adly,ahmed.adly@company.com,Mobile: 307991633,Male,0.0,2800.0,329.98,False
+69.0,4/19/2022,Egypt,alexandria,Marketing,Marketing Manager,omar,farouk,OMAR.FAROUK@COMPANY.COM,Mobile: 639252395,Male,10.0,3700.0,473.14,True
+70.0,1/21/2023,Saudi Arabia,jeddah,Finance,Financial Analyst,tarek,said,tarek.said@company.com,Mobile: 223564808,Male,10.0,2040.0,,False
+71.0,4/6/2022,United Arab Emirates,dubai,Operations,Operations Manager,mostafa,adly,MOSTAFA.ADLY@COMPANY.COM,Mobile: 187387049,Male,8.0,3350.0,159.27,False
+72.0,3/16/2015,Egypt,,Customer Support,Support Team Lead,dina,othman,dina.othman@company.com,Mobile: 490948317,Female,1.0,1650.0,173.37,True
+73.0,8/6/2024,Qatar,doha,HR,HR Specialist,adel,farouk,ADEL.FAROUK@COMPANY.COM,Mobile: 493241331,Male,11.0,1600.0,105.82,True
+74.0,11/19/2024,Saudi Arabia,jeddah,IT,Senior Software Engineer,yousef,hassan,yousef.hassan@company.com,Mobile: 476166874,Male,12.0,3580.0,131.51,False
+75.0,9/22/2024,Qatar,doha,IT,Software Engineer,khaled,mahmoud,khaled.mahmoud@company.com,Mobile: 113260810,Male,0.0,1200.0,44.41,False
+76.0,7/28/2015,Egypt,giza,Marketing,Marketing Manager,mariam,said,mariam.said@company.com,Mobile: 678109414,Female,9.0,3460.0,404.53,False
+77.0,5/21/2015,Saudi Arabia,riyadh,IT,IT Manager,yara,fathy,yara.fathy@company.com,Mobile: 382714645,Female,1.0,3590.0,506.27,False
+,,,,,,,,,,,,,,
+78.0,4/13/2020,Qatar,doha,Sales,Sales Representative,dina,othman,DINA.OTHMAN@COMPANY.COM,Mobile: 270925001,Female,0.0,900.0,117.91,True
+79.0,10/3/2024,Egypt,,Operations,Operations Coordinator,salma,adly,salma.adly@company.com,Mobile: 520437628,Female,13.0,1790.0,243.75,False
+80.0,12/2/2016,Egypt,alexandria,Sales,Senior Sales Executive,omar,ramzy,omar.ramzy@company.com,Mobile: 145791142,Male,0.0,1600.0,,True
+81.0,8/4/2019,Saudi Arabia,riyadh,Sales,Sales Representative,hassan,hassan,hassan.hassan@company.com,Mobile: 193919888,Male,3.0,1030.0,143.51,True
+82.0,9/16/2024,Egypt,,Finance,Accountant,rania,farouk,rania.farouk@company.com,Mobile: 444486646,Female,11.0,1620.0,187.74,False
+83.0,5/6/2024,United Arab Emirates,dubai,Marketing,Marketing Specialist,sara,gaber,sara.gaber@company.com,Mobile: 197591900,Female,15.0,1910.0,106.94,False
+84.0,5/27/2017,Jordan,amman,Finance,Financial Analyst,ahmed,farouk,ahmed.farouk@company.com,Mobile: 720630711,Male,5.0,1680.0,243.37,True
+85.0,6/7/2015,United Arab Emirates,dubai,Customer Support,Support Agent,omar,nasser,omar.nasser@company.com,Mobile: 553258624,Male,11.0,1140.0,156.2,True
+86.0,12/11/2023,Egypt,alexandria,Sales,Senior Sales Executive,hassan,othman,hassan.othman@company.com,Mobile: 810924655,Male,1.0,1660.0,80.74,True
+87.0,4/24/2017,Saudi Arabia,riyadh,Finance,Finance Manager,khaled,farouk,khaled.farouk@company.com,Mobile: 876676219,Male,6.0,3290.0,425.01,True
+88.0,7/9/2019,Egypt,alexandria,Operations,Operations Coordinator,lina,zaki,LINA.ZAKI@COMPANY.COM,Mobile: 424383083,Female,3.0,1140.0,,True
+89.0,10/24/2019,United Arab Emirates,abu dhabi,IT,Software Engineer,hassan,nasser,hassan.nasser@company.com,Mobile: 252270047,Male,13.0,2210.0,234.01,False
+,,,,,,,,,,,,,,
+90.0,7/8/2016,Saudi Arabia,riyadh,Operations,Operations Manager,mariam,ramzy,MARIAM.RAMZY@COMPANY.COM,Mobile: 774607231,Female,7.0,3360.0,283.81,False
+91.0,7/27/2015,Kuwait,,Finance,Financial Analyst,hana,nasser,hana.nasser@company.com,Mobile: 452244846,Female,13.0,2050.0,276.26,False
+92.0,11/26/2015,Qatar,doha,Customer Support,Support Agent,khaled,kamal,khaled.kamal@company.com,Mobile: 649961072,Male,11.0,1140.0,108.21,False
+93.0,1/1/2021,Qatar,doha,Sales,Senior Sales Executive,lina,othman,LINA.OTHMAN@COMPANY.COM,Mobile: 509994031,Female,3.0,1830.0,194.91,True
+94.0,4/6/2022,Saudi Arabia,jeddah,IT,Senior Software Engineer,mariam,zaki,mariam.zaki@company.com,Mobile: 520866801,Female,12.0,3660.0,205.95,True
+95.0,9/21/2019,Saudi Arabia,riyadh,Marketing,Content Creator,yousef,othman,yousef.othman@company.com,Mobile: 602619495,Male,4.0,1100.0,141.07,True
+96.0,11/10/2018,Saudi Arabia,jeddah,Finance,Finance Manager,mostafa,kamal,mostafa.kamal@company.com,Mobile: 484375328,Male,13.0,4010.0,507.88,True
+97.0,11/19/2020,Egypt,cairo,HR,,karim,said,KARIM.SAID@COMPANY.COM,Mobile: 992631642,Male,2.0,2730.0,338.75,True
+98.0,3/20/2023,Saudi Arabia,riyadh,IT,Senior Software Engineer,dina,ramzy,dina.ramzy@company.com,Mobile: 950053859,Female,5.0,2770.0,133.85,False
+99.0,4/27/2021,Qatar,doha,Operations,Operations Coordinator,lina,nasser,lina.nasser@company.com,Mobile: 383998620,Female,2.0,1120.0,152.23,True
+100.0,8/22/2024,Jordan,amman,Finance,Financial Analyst,yara,kamal,yara.kamal@company.com,Mobile: 602468662,Female,5.0,1610.0,49.58,True
+101.0,8/16/2023,Egypt,cairo,HR,Recruiter,khaled,othman,KHALED.OTHMAN@COMPANY.COM,Mobile: 200905667,Male,0.0,900.0,127.6,False
+102.0,5/18/2021,United Arab Emirates,dubai,IT,IT Manager,yara,farouk,YARA.FAROUK@COMPANY.COM,Mobile: 467171747,Female,15.0,5080.0,708.56,True
+103.0,3/19/2019,Qatar,doha,Marketing,Marketing Manager,hana,farouk,HANA.FAROUK@COMPANY.COM,Mobile: 440477083,Female,11.0,3860.0,482.63,False
+104.0,11/2/2024,Egypt,cairo,Marketing,Content Creator,nour,gaber,NOUR.GABER@COMPANY.COM,Mobile: 610084391,Female,12.0,1480.0,,False
+105.0,2/21/2021,Egypt,cairo,IT,Senior Software Engineer,adel,othman,adel.othman@company.com,Mobile: 139704444,Male,14.0,3480.0,,True
+106.0,8/19/2015,Egypt,alexandria,HR,HR Manager,nour,kamal,nour.kamal@company.com,Mobile: 720922249,Female,13.0,3430.0,,False
+107.0,7/18/2022,Egypt,giza,Finance,Accountant,mariam,kamal,mariam.kamal@company.com,Mobile: 266747785,Female,0.0,1100.0,164.09,True
+108.0,4/15/2024,Egypt,giza,IT,Software Engineer,ahmed,gaber,ahmed.gaber@company.com,Mobile: 395757782,Male,2.0,1330.0,,False
+109.0,11/22/2015,Jordan,amman,Operations,Operations Manager,omar,zaki,OMAR.ZAKI@COMPANY.COM,Mobile: 165016106,Male,8.0,3560.0,,False
+110.0,11/6/2020,United Arab Emirates,dubai,IT,IT Manager,yousef,ramzy,yousef.ramzy@company.com,Mobile: 225311476,Male,14.0,4870.0,,False
+111.0,3/20/2015,Saudi Arabia,jeddah,HR,HR Manager,dina,ramzy,dina.ramzy@company.com,Mobile: 750497519,Female,1.0,2610.0,329.47,False
+112.0,10/27/2017,Kuwait,kuwait city,Operations,Operations Manager,hassan,gaber,HASSAN.GABER@COMPANY.COM,Mobile: 553655942,Male,7.0,3410.0,102.99,False
+113.0,5/20/2018,Jordan,amman,HR,Recruiter,adel,said,adel.said@company.com,Mobile: 945775877,Male,11.0,1420.0,125.2,True
+114.0,9/11/2019,Jordan,amman,Customer Support,Support Team Lead,mariam,mahmoud,mariam.mahmoud@company.com,Mobile: 659462022,Female,2.0,1730.0,64.9,False
+115.0,2/12/2020,United Arab Emirates,dubai,Customer Support,Support Team Lead,omar,said,OMAR.SAID@COMPANY.COM,Mobile: 629643140,Male,11.0,2250.0,107.73,False
+116.0,5/25/2018,Egypt,cairo,Marketing,Content Creator,karim,zaki,karim.zaki@company.com,Mobile: 709009131,Male,3.0,1030.0,137.95,True
+117.0,8/28/2022,Egypt,alexandria,HR,HR Specialist,mostafa,mahmoud,mostafa.mahmoud@company.com,Mobile: 857600380,Male,12.0,1520.0,,False
+118.0,6/8/2017,United Arab Emirates,,IT,IT Manager,mona,kamal,mona.kamal@company.com,Mobile: 581405093,Female,7.0,4360.0,481.2,False
+119.0,3/11/2016,Egypt,cairo,Marketing,Marketing Specialist,rania,mahmoud,rania.mahmoud@company.com,Mobile: 159880236,Female,8.0,1660.0,178.62,False
+120.0,4/26/2022,Egypt,,Finance,Finance Manager,mariam,ramzy,mariam.ramzy@company.com,Mobile: 281008353,Female,15.0,3810.0,171.06,True
+121.0,1/21/2021,Egypt,giza,Customer Support,Support Agent,ahmed,said,ahmed.said@company.com,Mobile: 204139452,Male,11.0,1300.0,,True
+122.0,8/28/2017,Egypt,alexandria,Operations,Operations Manager,yousef,hassan,yousef.hassan@company.com,Mobile: 694180900,Male,10.0,3470.0,,True
+123.0,3/17/2016,United Arab Emirates,dubai,Customer Support,Support Team Lead,mostafa,ramzy,mostafa.ramzy@company.com,Mobile: 618012036,Male,5.0,1870.0,,True
+124.0,2/13/2018,Egypt,giza,Customer Support,Support Team Lead,hazem,nasser,HAZEM.NASSER@COMPANY.COM,Mobile: 356275331,Male,8.0,2150.0,175.97,True
+125.0,6/14/2017,Qatar,doha,IT,Data Analyst,yara,othman,yara.othman@company.com,Mobile: 407513715,Female,10.0,2070.0,258.23,True
+126.0,3/7/2019,Egypt,alexandria,Marketing,Marketing Specialist,khaled,said,khaled.said@company.com,Mobile: 917417808,Male,6.0,1490.0,203.71,True
+127.0,2/1/2022,Egypt,giza,Sales,Sales Representative,adel,zaki,ADEL.ZAKI@COMPANY.COM,Mobile: 402535092,Male,13.0,1650.0,152.15,False
+128.0,2/4/2023,Egypt,cairo,Marketing,Marketing Manager,lina,said,lina.said@company.com,Mobile: 578639080,Female,5.0,3050.0,405.55,True
+129.0,1/8/2017,Saudi Arabia,jeddah,Customer Support,Support Agent,hana,ramzy,hana.ramzy@company.com,Mobile: 676955254,Female,3.0,940.0,86.1,False
+130.0,8/17/2024,Egypt,cairo,Marketing,Marketing Specialist,mostafa,zaki,mostafa.zaki@company.com,Mobile: 783798727,Male,3.0,1320.0,81.01,True
+131.0,10/8/2023,Jordan,amman,HR,HR Specialist,khaled,mahmoud,KHALED.MAHMOUD@COMPANY.COM,Mobile: 247053919,Male,15.0,1670.0,72.15,False
+132.0,12/14/2020,United Arab Emirates,abu dhabi,Operations,Operations Manager,yara,mahmoud,YARA.MAHMOUD@COMPANY.COM,Mobile: 358102928,Female,1.0,2700.0,332.72,False
+133.0,6/4/2015,Qatar,doha,IT,IT Manager,hana,adly,hana.adly@company.com,Mobile: 779345525,Female,4.0,4070.0,243.85,False
+134.0,5/22/2024,Jordan,amman,Finance,Accountant,tarek,said,TAREK.SAID@COMPANY.COM,Mobile: 788885210,Male,1.0,1160.0,157.94,False
+135.0,2/2/2017,Qatar,doha,HR,HR Specialist,adel,hassan,ADEL.HASSAN@COMPANY.COM,Mobile: 795269415,Male,0.0,1000.0,64.5,False
+136.0,5/9/2024,Egypt,alexandria,Marketing,Content Creator,mona,nasser,MONA.NASSER@COMPANY.COM,Mobile: 536523328,Female,14.0,1430.0,,True
+137.0,5/1/2022,United Arab Emirates,abu dhabi,Marketing,Marketing Specialist,mariam,kamal,MARIAM.KAMAL@COMPANY.COM,Mobile: 613093816,Female,6.0,1480.0,202.79,True
+138.0,1/25/2019,Egypt,alexandria,IT,IT Manager,mariam,gaber,mariam.gaber@company.com,Mobile: 332079657,Female,7.0,4240.0,264.54,True
+139.0,7/11/2017,Jordan,amman,IT,Data Analyst,salma,othman,SALMA.OTHMAN@COMPANY.COM,Mobile: 827631093,Female,11.0,2250.0,,False
+140.0,2/16/2024,Saudi Arabia,jeddah,Operations,Operations Manager,nour,hassan,nour.hassan@company.com,Mobile: 690500409,Female,4.0,2980.0,,True
+141.0,11/11/2021,Jordan,amman,IT,Data Analyst,mariam,ramzy,mariam.ramzy@company.com,Mobile: 739327891,Female,14.0,2130.0,154.11,True
+142.0,10/27/2020,Saudi Arabia,jeddah,Sales,Sales Manager,salma,zaki,salma.zaki@company.com,Mobile: 454421761,Female,4.0,3220.0,186.22,True
+143.0,12/22/2023,Jordan,amman,HR,Recruiter,ahmed,mahmoud,ahmed.mahmoud@company.com,Mobile: 655605472,Male,9.0,1400.0,132.47,False
+144.0,4/14/2017,Qatar,doha,Operations,Operations Coordinator,salma,mahmoud,salma.mahmoud@company.com,Mobile: 716386628,Female,7.0,1300.0,101.54,False
+,,,,,,,,,,,,,,
+145.0,12/11/2019,Egypt,alexandria,Customer Support,Support Agent,nour,kamal,nour.kamal@company.com,Mobile: 218661068,Female,11.0,1190.0,153.66,False
+,,,,,,,,,,,,,,
+146.0,10/21/2020,Saudi Arabia,riyadh,HR,,yara,adly,yara.adly@company.com,Mobile: 214482613,Female,6.0,1170.0,,False
+147.0,10/9/2023,Saudi Arabia,jeddah,Operations,Operations Coordinator,mostafa,kamal,MOSTAFA.KAMAL@COMPANY.COM,Mobile: 634574524,Male,12.0,1760.0,193.9,False
+148.0,8/27/2023,Egypt,giza,Finance,Finance Manager,adel,fathy,ADEL.FATHY@COMPANY.COM,Mobile: 283111403,Male,4.0,3110.0,133.1,False
+149.0,6/7/2016,Saudi Arabia,riyadh,Sales,Sales Manager,adel,farouk,adel.farouk@company.com,Mobile: 725195172,Male,11.0,3860.0,,False
+150.0,1/28/2020,Kuwait,kuwait city,Finance,Financial Analyst,mariam,mahmoud,mariam.mahmoud@company.com,Mobile: 286327683,Female,7.0,1680.0,,False
+151.0,3/6/2016,Kuwait,kuwait city,Operations,Operations Manager,mona,fathy,MONA.FATHY@COMPANY.COM,Mobile: 361339057,Female,7.0,3270.0,377.4,True
+152.0,4/13/2023,United Arab Emirates,dubai,HR,HR Specialist,hana,adly,hana.adly@company.com,Mobile: 477149188,Female,12.0,1600.0,232.56,True
+153.0,9/15/2017,Egypt,alexandria,IT,IT Manager,mostafa,othman,MOSTAFA.OTHMAN@COMPANY.COM,Mobile: 996582928,Male,7.0,4390.0,,False
+154.0,12/9/2017,United Arab Emirates,abu dhabi,Operations,Operations Manager,rania,fathy,rania.fathy@company.com,Mobile: 825100509,Female,6.0,3140.0,171.24,False
+155.0,1/22/2021,Egypt,,Marketing,Marketing Specialist,hassan,ramzy,hassan.ramzy@company.com,Mobile: 890207748,Male,3.0,1300.0,,False
+156.0,2/8/2019,Egypt,giza,HR,HR Specialist,khaled,fathy,KHALED.FATHY@COMPANY.COM,Mobile: 170771388,Male,2.0,1110.0,99.95,True
+157.0,11/23/2015,Saudi Arabia,jeddah,Customer Support,Support Agent,hana,nasser,hana.nasser@company.com,Mobile: 542994378,Female,5.0,950.0,104.15,False
+158.0,4/25/2021,Saudi Arabia,,HR,HR Specialist,mona,said,MONA.SAID@COMPANY.COM,Mobile: 273960235,Female,7.0,1420.0,,True
+159.0,2/27/2015,Kuwait,kuwait city,Customer Support,Support Agent,yara,ramzy,yara.ramzy@company.com,Mobile: 474777903,Female,15.0,1310.0,107.67,False
+160.0,12/20/2021,United Arab Emirates,dubai,IT,Software Engineer,tarek,othman,tarek.othman@company.com,Mobile: 898791978,Male,6.0,1720.0,240.18,False
+161.0,8/25/2017,Qatar,doha,Operations,Operations Manager,salma,farouk,salma.farouk@company.com,Mobile: 935640508,Female,1.0,2710.0,300.2,True
+162.0,4/21/2016,Saudi Arabia,riyadh,Sales,Sales Manager,yara,adly,yara.adly@company.com,Mobile: 541992933,Female,8.0,3560.0,,True
+163.0,10/19/2017,Qatar,doha,Sales,Sales Representative,lina,kamal,LINA.KAMAL@COMPANY.COM,Mobile: 859903545,Female,14.0,1430.0,162.69,True
+164.0,8/7/2020,Kuwait,kuwait city,Operations,Operations Coordinator,yara,othman,yara.othman@company.com,Mobile: 113283590,Female,14.0,1750.0,95.83,True
+165.0,8/3/2022,United Arab Emirates,dubai,IT,Senior Software Engineer,mostafa,nasser,MOSTAFA.NASSER@COMPANY.COM,Mobile: 111611611,Male,14.0,3380.0,169.58,False
+166.0,12/21/2024,Jordan,amman,Finance,Accountant,mona,othman,MONA.OTHMAN@COMPANY.COM,Mobile: 407061282,Female,6.0,1470.0,107.48,False
+167.0,12/27/2016,Saudi Arabia,jeddah,Customer Support,Support Agent,ahmed,gaber,ahmed.gaber@company.com,Mobile: 280881645,Male,11.0,1160.0,152.52,True
+168.0,1/7/2021,Qatar,doha,HR,HR Specialist,rania,fathy,RANIA.FATHY@COMPANY.COM,Mobile: 961983426,Female,11.0,1690.0,62.41,False
+169.0,8/7/2022,Egypt,,Operations,Operations Coordinator,mariam,ramzy,MARIAM.RAMZY@COMPANY.COM,Mobile: 142888562,Female,7.0,1320.0,193.22,True
+170.0,12/6/2017,Qatar,doha,IT,,yara,zaki,YARA.ZAKI@COMPANY.COM,Mobile: 986987998,Female,13.0,2300.0,,True
+171.0,10/20/2021,Qatar,doha,Finance,Financial Analyst,mariam,fathy,mariam.fathy@company.com,Mobile: 265747768,Female,10.0,1920.0,180.79,True
+172.0,11/1/2023,Kuwait,kuwait city,HR,Recruiter,mariam,othman,MARIAM.OTHMAN@COMPANY.COM,Mobile: 468732380,Female,13.0,1580.0,170.14,False
+173.0,4/18/2017,Qatar,doha,Marketing,Marketing Manager,khaled,othman,KHALED.OTHMAN@COMPANY.COM,Mobile: 344002020,Male,13.0,3620.0,300.33,False
+174.0,10/3/2024,Jordan,amman,Operations,Operations Manager,tarek,adly,TAREK.ADLY@COMPANY.COM,Mobile: 651027529,Male,7.0,3320.0,327.77,False
+175.0,8/25/2024,Egypt,giza,Marketing,Content Creator,hazem,adly,hazem.adly@company.com,Mobile: 305777668,Male,3.0,1060.0,101.03,True
+176.0,4/19/2024,Egypt,cairo,HR,HR Specialist,lina,mahmoud,LINA.MAHMOUD@COMPANY.COM,Mobile: 194172898,Female,6.0,1320.0,,True
+177.0,10/12/2015,Saudi Arabia,jeddah,Operations,Operations Coordinator,rania,kamal,rania.kamal@company.com,Mobile: 625046901,Female,3.0,1140.0,105.98,True
+178.0,1/16/2016,United Arab Emirates,dubai,Sales,Senior Sales Executive,ahmed,othman,ahmed.othman@company.com,Mobile: 572315753,Male,6.0,2060.0,,True
+179.0,9/16/2022,Qatar,,Marketing,Marketing Manager,hana,said,HANA.SAID@COMPANY.COM,Mobile: 262063477,Female,8.0,3480.0,,False
+180.0,6/11/2016,Jordan,amman,Operations,Operations Manager,adel,othman,adel.othman@company.com,Mobile: 655121692,Male,5.0,3150.0,181.14,False
+181.0,6/8/2022,Jordan,amman,Customer Support,Support Team Lead,tarek,said,TAREK.SAID@COMPANY.COM,Mobile: 721870074,Male,10.0,2240.0,162.27,True
+,,,,,,,,,,,,,,
+182.0,3/23/2024,Saudi Arabia,jeddah,Operations,Operations Coordinator,khaled,kamal,khaled.kamal@company.com,Mobile: 667095131,Male,12.0,1580.0,97.09,True
+183.0,5/25/2016,Egypt,giza,Marketing,Content Creator,hassan,othman,hassan.othman@company.com,Mobile: 251551843,Male,11.0,1580.0,92.53,True
+184.0,4/26/2020,United Arab Emirates,dubai,Operations,Operations Manager,karim,adly,karim.adly@company.com,Mobile: 640879485,Male,1.0,2710.0,368.67,True
+185.0,9/22/2024,Kuwait,kuwait city,Finance,Accountant,yousef,gaber,yousef.gaber@company.com,Mobile: 370709270,Male,9.0,1690.0,79.87,False
+186.0,6/6/2022,United Arab Emirates,,HR,Recruiter,adel,said,adel.said@company.com,Mobile: 172742852,Male,14.0,1420.0,115.58,True
+187.0,4/8/2016,Saudi Arabia,riyadh,Operations,Operations Coordinator,mostafa,fathy,mostafa.fathy@company.com,Mobile: 795885584,Male,1.0,1050.0,107.47,False
+188.0,6/11/2018,Egypt,alexandria,HR,,omar,ramzy,omar.ramzy@company.com,Mobile: 129606930,Male,0.0,900.0,121.55,False
+189.0,1/1/2022,Egypt,cairo,Customer Support,Support Team Lead,yara,mahmoud,yara.mahmoud@company.com,Mobile: 375970303,Female,2.0,1730.0,154.53,False
+190.0,7/12/2020,Egypt,alexandria,Operations,Operations Manager,hassan,ramzy,hassan.ramzy@company.com,Mobile: 484232877,Male,2.0,2750.0,257.23,False
+191.0,5/12/2023,Jordan,amman,Marketing,Marketing Manager,lina,kamal,lina.kamal@company.com,Mobile: 586577925,Female,1.0,2610.0,320.28,False
+192.0,9/17/2015,Egypt,alexandria,IT,IT Manager,hazem,nasser,hazem.nasser@company.com,Mobile: 231235316,Male,7.0,4270.0,608.19,True
+193.0,7/15/2020,Qatar,,Customer Support,Support Agent,yara,said,yara.said@company.com,Mobile: 328852314,Female,0.0,800.0,66.39,True
+194.0,1/9/2018,United Arab Emirates,dubai,Finance,Finance Manager,omar,othman,omar.othman@company.com,Mobile: 805499836,Male,1.0,2880.0,399.87,True
+195.0,3/27/2019,Saudi Arabia,,Customer Support,Support Team Lead,lina,farouk,lina.farouk@company.com,Mobile: 612573430,Female,9.0,2260.0,333.94,True
+196.0,3/14/2022,Saudi Arabia,riyadh,Operations,Operations Manager,khaled,farouk,khaled.farouk@company.com,Mobile: 937319833,Male,1.0,2720.0,370.0,False
+197.0,7/11/2016,Saudi Arabia,jeddah,IT,Senior Software Engineer,omar,said,omar.said@company.com,Mobile: 526462309,Male,4.0,2600.0,312.41,False
+198.0,1/11/2015,Egypt,cairo,Sales,Sales Representative,sara,ramzy,sara.ramzy@company.com,Mobile: 882225580,Female,1.0,940.0,93.04,True
+199.0,6/7/2016,Saudi Arabia,riyadh,IT,Senior Software Engineer,hazem,gaber,hazem.gaber@company.com,Mobile: 632862114,Male,4.0,2630.0,392.41,False
+200.0,6/9/2023,Saudi Arabia,jeddah,Sales,Sales Representative,mostafa,kamal,mostafa.kamal@company.com,Mobile: 538218098,Male,8.0,1240.0,,True
